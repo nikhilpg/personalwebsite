@@ -18,4 +18,6 @@
     background-image:url();
     background-size: 100%;
 }
+.navbar-light .navbar-toggler-icon {
+    background-color: #ffff !important;
 }
